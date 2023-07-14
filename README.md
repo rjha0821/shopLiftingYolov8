@@ -5,4 +5,4 @@ firstly we have to trained our model,
 we trained our model on google collab with small amount of data, which is offcourse 
 suitable for yolov8 after that 
 best.pt trained model algo generated that we use in our vs code.
-source code is available and for more https://youtu.be/VH4F6y87t_s saw this.
+source code is available and for more [https://youtu.be/VH4F6y87t_s](https://youtu.be/XHC4-UKZlwc)https://youtu.be/XHC4-UKZlwc saw this.
